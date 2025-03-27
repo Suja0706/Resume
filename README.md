@@ -169,7 +169,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="Resume-Suja (1).pdf" target="Resume-Suja (1).pdf" class="download-button">Download CV</a>
         </center>
         </div>
         
